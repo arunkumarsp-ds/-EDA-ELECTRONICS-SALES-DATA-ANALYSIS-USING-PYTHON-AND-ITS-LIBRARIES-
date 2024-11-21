@@ -1,4 +1,10 @@
-# Electronics Sales Data Analysis Using Python  
+# **Electronics Sales Data Analysis Using Python**  
+
+## 🔗 PROJECT LINKS
+
+- 💻 [**Jupyter Notebook Link**](https://github.com/arunkumarsp-ds/-EDA-ELECTRONICS-SALES-DATA-ANALYSIS-USING-PYTHON-AND-ITS-LIBRARIES-/blob/main/electronics_sales_data_analysis_project_notebook.ipynb)
+
+### Note: If the linked files (Jupyter notebook or IPython files) cannot be viewed directly on GitHub, please download them and open them using the appropriate application for full access.
 
 This project involves analyzing the electronics sales data using Python to gain insights that can help increase sales and optimize advertisements more efficiently for the target audience.  
 
@@ -33,7 +39,4 @@ The insights gained from this project can:
 - Help target advertisements during peak times.  
 - Optimize inventory for high-demand products and popular combos, leading to better sales outcomes.  
 
-## Project Files and Links 
-- [Jupyter Notebook Link](https://github.com/arunkumarsp-ds/-EDA-ELECTRONICS-SALES-DATA-ANALYSIS-USING-PYTHON-AND-ITS-LIBRARIES-/blob/main/electronics_sales_data_analysis_project_notebook.ipynb)
 
-### Note: If the linked files (Jupyter notebook or IPython files) cannot be viewed directly on GitHub, please download them and open them using the appropriate application for full access.
